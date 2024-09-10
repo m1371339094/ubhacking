@@ -1,4 +1,4 @@
-# Maze Solver for UB Hacking 2017
+# Maze Solver 
 
 This project was made for the UB Hacking 24 hour hackathon 
 
